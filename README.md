@@ -46,7 +46,8 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![Alt text](csv.png)
+![Alt text](csv1.png)
+![Alt text](csv2.png)
 
 ## RESULT:
 
